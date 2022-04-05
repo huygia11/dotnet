@@ -1,0 +1,8 @@
+D:\webnc\dotnet\learnCsharp\FirstConstructor\bin\Debug\FirstConstructor.exe.config
+D:\webnc\dotnet\learnCsharp\FirstConstructor\bin\Debug\FirstConstructor.exe
+D:\webnc\dotnet\learnCsharp\FirstConstructor\bin\Debug\FirstConstructor.pdb
+D:\webnc\dotnet\learnCsharp\FirstConstructor\obj\Debug\FirstConstructor.csproj.AssemblyReference.cache
+D:\webnc\dotnet\learnCsharp\FirstConstructor\obj\Debug\FirstConstructor.csproj.SuggestedBindingRedirects.cache
+D:\webnc\dotnet\learnCsharp\FirstConstructor\obj\Debug\FirstConstructor.csproj.CoreCompileInputs.cache
+D:\webnc\dotnet\learnCsharp\FirstConstructor\obj\Debug\FirstConstructor.exe
+D:\webnc\dotnet\learnCsharp\FirstConstructor\obj\Debug\FirstConstructor.pdb

@@ -1,0 +1,8 @@
+D:\webnc\dotnet\learnCsharp\enum\bin\Debug\@enum.exe.config
+D:\webnc\dotnet\learnCsharp\enum\bin\Debug\@enum.exe
+D:\webnc\dotnet\learnCsharp\enum\bin\Debug\@enum.pdb
+D:\webnc\dotnet\learnCsharp\enum\obj\Debug\enum.csproj.AssemblyReference.cache
+D:\webnc\dotnet\learnCsharp\enum\obj\Debug\enum.csproj.SuggestedBindingRedirects.cache
+D:\webnc\dotnet\learnCsharp\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+D:\webnc\dotnet\learnCsharp\enum\obj\Debug\@enum.exe
+D:\webnc\dotnet\learnCsharp\enum\obj\Debug\@enum.pdb

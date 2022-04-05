@@ -1,0 +1,80 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Microsoft.VisualBasic.ApplicationServices;
+
+namespace csString
+{
+	internal class Program
+	{
+		static void Main1()
+		{
+
+			string[] cars = { "ronaldo", "africa", "ricardo", "universal" };
+			cars[2] = "Lamborghini";
+			Console.WriteLine(cars[2]);
+			Console.WriteLine(cars.Length);
+
+			for (int i = 0; i < cars.Length; i++)
+			{
+				Console.WriteLine(cars[i]);
+			}
+			Console.WriteLine(cars.Length);
+
+			//or foreach
+			foreach (string i in cars)
+			{
+				Console.WriteLine(i);
+			}
+
+			Array.Sort(cars);
+			foreach (string i in cars)
+			{
+				Console.WriteLine();
+			}
+
+
+			int[] numbers = { 1, 2, 3, 4, 5 };
+			Array.Sort(numbers);
+			foreach (int i in numbers)
+			{
+				Console.WriteLine(i);
+			}
+
+			//declare an array
+			string[] trees;
+			trees = new string[] { "quyt", "tao", "oi", "xoai" };
+			trees[0] = "cay mận";
+
+			void myMethod()
+			{
+				Console.WriteLine("i just got a new");
+			}
+			myMethod();
+
+			void myMethod2(string fname)
+			{
+				Console.WriteLine(fname + "Universal");
+			}
+
+			myMethod2("Good Way ");
+			myMethod2("Terrible Way ");
+
+			// default parameter value
+			void myMethod3(string country = "qncity")
+			{
+				Console.WriteLine(country);
+			}
+			myMethod3("qnhon");
+			myMethod3("qngai");
+			myMethod3();
+
+
+		}
+
+
+
+	}
+}

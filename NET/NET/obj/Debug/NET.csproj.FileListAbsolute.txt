@@ -1,0 +1,8 @@
+D:\webnc\dotnet\NET\NET\obj\Debug\NET.csproj.AssemblyReference.cache
+D:\webnc\dotnet\NET\NET\obj\Debug\NET.csproj.SuggestedBindingRedirects.cache
+D:\webnc\dotnet\NET\NET\obj\Debug\NET.csproj.CoreCompileInputs.cache
+D:\webnc\dotnet\NET\NET\bin\Debug\NET.exe.config
+D:\webnc\dotnet\NET\NET\bin\Debug\NET.exe
+D:\webnc\dotnet\NET\NET\bin\Debug\NET.pdb
+D:\webnc\dotnet\NET\NET\obj\Debug\NET.exe
+D:\webnc\dotnet\NET\NET\obj\Debug\NET.pdb

@@ -1,0 +1,8 @@
+D:\webnc\dotnet\learnCsharp\learnCsharp\bin\Debug\learnCsharp.exe.config
+D:\webnc\dotnet\learnCsharp\learnCsharp\bin\Debug\learnCsharp.exe
+D:\webnc\dotnet\learnCsharp\learnCsharp\bin\Debug\learnCsharp.pdb
+D:\webnc\dotnet\learnCsharp\learnCsharp\obj\Debug\learnCsharp.csproj.AssemblyReference.cache
+D:\webnc\dotnet\learnCsharp\learnCsharp\obj\Debug\learnCsharp.csproj.SuggestedBindingRedirects.cache
+D:\webnc\dotnet\learnCsharp\learnCsharp\obj\Debug\learnCsharp.csproj.CoreCompileInputs.cache
+D:\webnc\dotnet\learnCsharp\learnCsharp\obj\Debug\learnCsharp.exe
+D:\webnc\dotnet\learnCsharp\learnCsharp\obj\Debug\learnCsharp.pdb
