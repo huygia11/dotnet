@@ -6,34 +6,16 @@ using System.Threading.Tasks;
 
 namespace NET
 {
-	class Person {
-		private string name;
-
-		public string Name {
-			get { return name; }
-			set { name = value; }
-		}
-	}
-
-	class Car
+	class Program
 	{
-		private string model { get; set; }
-		private string color { get; set; }
-		private int year { get; set; }
+		static void Main(string[] args) {
+			Student s1 = new Student(1, "huy", 22);
+			Student s2 = new Student(2, "huy2", 23);
+			Student s3 = new Student(3, "huy3", 23);
 
-		public Car(string modelName, string modelColor, int modelYear)
-		{
-			model = modelName;
-			color = modelColor;
-			year = modelYear;
-		}
-
-		static void Main(string[] args)
-		{
-			Car bmw = new Car("mustang", "yellow", 2022);
-			Console.WriteLine($"{bmw.model} | {bmw.color} | {bmw.year}");
-
+			Person p1 = new Person();
+			p1.Name = "huy";
+			Console.WriteLine(p1.Name);
 		}
 	}
-	
 }
