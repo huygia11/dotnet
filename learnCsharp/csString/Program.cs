@@ -9,10 +9,10 @@ namespace csString
 {
 	internal class Program
 	{
-		static void Main1()
+		static void Main()
 		{
 
-			string[] cars = { "ronaldo", "africa", "ricardo", "universal" };
+			/*string[] cars = { "ronaldo", "africa", "ricardo", "universal" };
 			cars[2] = "Lamborghini";
 			Console.WriteLine(cars[2]);
 			Console.WriteLine(cars.Length);
@@ -69,8 +69,62 @@ namespace csString
 			}
 			myMethod3("qnhon");
 			myMethod3("qngai");
-			myMethod3();
+			myMethod3();*/
 
+
+
+
+
+
+
+
+
+			Console.WriteLine(Math.Max(22, 11));
+			Console.WriteLine(Math.Min(22, 11));
+			Console.WriteLine(Math.Sqrt(121));
+			Console.WriteLine(Math.Sqrt(242));
+
+			string name = "Do Phuc An Khang";
+
+			int vitriA = name.IndexOf("A");
+
+			string firstName = name.Substring(vitriA);
+
+			Console.WriteLine(firstName);
+
+
+
+
+			int x = 22, y = 11;
+			if (x > y)
+			{
+				Console.WriteLine("dam chet cha may gio");
+			}
+			else
+			{
+				Console.WriteLine("ke me may");
+			}
+
+			int z = 33;
+			switch (z)
+			{
+				case 11:
+					Console.WriteLine("abc");
+					break;
+				case 22:
+					Console.WriteLine("xyz");
+					break;
+				default:
+					Console.WriteLine("aaa");
+					break;
+			}
+
+			int g = 10;
+			do
+			{
+				Console.WriteLine(g);
+				g--;
+			} while (g >= 0);
 
 		}
 
