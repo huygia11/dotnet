@@ -9,9 +9,18 @@ namespace csString
 {
 	internal class Program
 	{
+		static void huystupid()
+		{
+			Console.WriteLine("huyngudot");
+		}
+
+		static void bay() {
+			Console.WriteLine("i beleive i can fly");
+		}
 		static void Main()
 		{
-
+			huystupid();
+			bay();
 			/*string[] cars = { "ronaldo", "africa", "ricardo", "universal" };
 			cars[2] = "Lamborghini";
 			Console.WriteLine(cars[2]);
@@ -125,6 +134,27 @@ namespace csString
 				Console.WriteLine(g);
 				g--;
 			} while (g >= 0);
+
+			Console.WriteLine();
+
+			string[] array = { "huyngu", "khanghandsomeboy", "huyugly" };
+			Console.WriteLine(array[0]);
+			array[0] = "huydepcho";
+			for (int i = 0; i < array.Length; i++)
+			{
+				Console.WriteLine(array[i]);
+			}
+
+			Console.WriteLine();
+			Array.Sort(array);
+			foreach (string everything in array)
+			{
+				Console.WriteLine(everything);
+			}
+
+			Console.WriteLine();
+
+
 
 		}
 

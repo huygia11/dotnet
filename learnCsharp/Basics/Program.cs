@@ -1,5 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-static void Main1()
+﻿// See https://aka.ms/new-console-template for more 
+
+static void Main(string[] args)
 {
 
 	string[] cars = { "ronaldo", "africa", "ricardo", "universal" };
@@ -60,6 +61,13 @@ static void Main1()
 	myMethod3("qnhon");
 	myMethod3("qngai");
 	myMethod3();
+
+
+
+
+	string[] array = { "huyngu", "khanghandsomeboy", "huyugly" };
+	Console.WriteLine(array[0]);
+
 
 
 }

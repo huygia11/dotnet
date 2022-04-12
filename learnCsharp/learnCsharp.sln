@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learnCsharp", "learnCsharp\learnCsharp.csproj", "{54930DAE-E9FC-4BF9-8EA7-379F9B86A242}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "im-explicit", "learnCsharp\im-explicit.csproj", "{54930DAE-E9FC-4BF9-8EA7-379F9B86A242}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstCsharpApp", "firstCsharpApp\firstCsharpApp.csproj", "{9174251C-0BD9-457B-9C21-46B8E3383794}"
 EndProject
@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstOOP", "firstOOP\firstO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstConstructor", "FirstConstructor\FirstConstructor.csproj", "{1C9CADE7-B966-4235-A951-A06290115028}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics", "Basics\Basics.csproj", "{2AD7F8AE-8EDD-4223-9EB3-149968241907}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basics", "Basics\Basics.csproj", "{2AD7F8AE-8EDD-4223-9EB3-149968241907}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
