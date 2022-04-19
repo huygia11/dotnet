@@ -47,13 +47,7 @@ namespace MiddlewareNetCore5
 			{
 				endpoints.MapRazorPages();
 			});
-
-
-			app.Run(async (context, next) => {
-				
-			})
-
-
 		}
+
 	}
 }
